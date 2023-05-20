@@ -32,6 +32,10 @@ public class IfStatements03 {
             System.out.println(10);
         }else if(monthName.equalsIgnoreCase("November")) {
             System.out.println(11);
+        }else if(monthName.equalsIgnoreCase("December")) {
+            System.out.println(12);
+        }else{
+            System.out.println("Invalid month name...");
 
         }
 
