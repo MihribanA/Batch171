@@ -12,7 +12,7 @@ public class Loops01 {
 
         /*
         Code Standarts
-        1)tekrar (Repetition) olmalidir
+        1)tekrar (Repetition) olmamalidir
         2)Dynamic olmalidir
         3)Tamir (Fix) ve update kolay yapilabilmelidir.
          */
