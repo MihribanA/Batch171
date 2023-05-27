@@ -12,7 +12,7 @@ public class DoWhileLoop02 {
         Scanner input = new Scanner(System.in);
 
         do {
-            ;
+
             System.out.println("Bir sayi giriniz");
             int num = input.nextInt();
 
